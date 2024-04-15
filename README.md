@@ -36,7 +36,7 @@ I am Nikhil Raghuwanshi, a dedicated student at Function Up School of Technology
 
 ## Contact Me
 Feel free to reach out to me via email or social media for inquiries, collaborations, or just to say hello!
-- Email: [example@example.com](mailto:example@example.com)
+- Email: [example@example.com](mailto:nikhilraghuwanshi04@gmail.com)
 - LinkedIn: [linkedin.com/in/nikhilraghuwanshi/](https://www.linkedin.com/in/nikhilraghuwanshi/)
 - Twitter: [twitter.com/NikhilR29711017](https://twitter.com/NikhilR29711017)
 - Instagram: [instagram.com/_._._._.nikku._._._._/](https://www.instagram.com/_._._._.nikku._._._._/)
